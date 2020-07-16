@@ -1,6 +1,6 @@
 package com.esinik.mylib;
 
-class TestClass {
+public class TestClass {
 
     public void printHello() {
         System.out.println(" Hello :)) ");
